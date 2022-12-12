@@ -36,6 +36,7 @@
 
 .item--0 {
  background: #fff;
+ border:1px solid #282828;
 }
 .item--1 {
  background: #c7c7ff;
